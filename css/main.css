@@ -74,7 +74,7 @@ body {
 body {
   background: #ec9e00;
   /* background: #ec9e00; */
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 1.8rem;
   font-style: normal;
   font-weight: normal;
@@ -126,7 +126,7 @@ a:active {
  * 
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 700;
   font-style: normal;
   color: #1a202c;
@@ -203,14 +203,14 @@ p img {
 }
 
 p {
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 400;
   line-height: 1.4;
   color: #1a202c;
 }
 
 p.lead {
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 600;
   font-size: 2.6rem;
   line-height: 1.2;
@@ -954,7 +954,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   display: inline-block;
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -1834,7 +1834,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .intro-content__text h3 {
   display: inline-block;
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 500;
   font-size: 1.4rem;
   line-height: 2rem;
@@ -1924,7 +1924,7 @@ input::-moz-focus-inner {
 .intro-content__counter-wrap h4 {
   margin-top: 0;
   margin-bottom: .2rem;
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 1.25;
@@ -2625,7 +2625,7 @@ html.no-csstransitions .intro-content__bottom {
 }
 
 .s-info h1 {
-  font-family: "Heebo", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 700;
   padding-bottom: 3.6rem;
   margin-bottom: 3.6rem;
